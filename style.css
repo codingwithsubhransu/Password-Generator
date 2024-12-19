@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(58, 58, 255);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 25vh;
+    font-size: 1.1rem;
+    height: 50vh;
+    width: 40vw;
+    min-width: 318px;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 30px;
+}
+
+.heading{
+    font-size: 1.5rem;
+    margin-top: 2em;
+}
+
+#passworddiv{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#passsword{
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 1.1rem;
+}
+
+#char{
+    display: flex;
+    gap: 0.5rem;
+}
+
+#copy{
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(234, 234, 234);
+}
+
+#copy:active{
+    background-color: white;
+}
