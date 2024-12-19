@@ -22,14 +22,15 @@ A powerful and intuitive password generator built with **HTML**, **CSS**, and **
 
 ## Live Demo
 
-[Click here to try the Password Generator!]([#](https://codingwithsubhransu.github.io/Password-Generator/))  
+[[Click here to try the Password Generator!]([(https://codingwithsubhransu.github.io/Password-Generator/)]
 
 ---
 
 ## Screenshots
 
 ### Password Generator Interface
-![Password Generator Interface](![image](https://github.com/user-attachments/assets/44241237-77e3-470f-b686-22a3172dc99a)
+![Password Generator Interface](![image]![Screenshot 2024-12-19 080717](https://github.com/user-attachments/assets/37a26610-9f81-4764-9153-61a774812704)
+
 )  
 
 ---
